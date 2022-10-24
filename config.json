@@ -1,0 +1,11 @@
+{
+  "name": "Colored Markers",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-Colored-Markers",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1",
+  "hosted": "https://visionary-raindrop-08d86f.netlify.app/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["html", "css"]
+}
